@@ -1,6 +1,0 @@
-// הגדרות בסיס. הערכים האישיים נמצאים ב-Secrets.xcconfig (לא נשמר ב-git).
-APP_BUNDLE_ID = com.songmilim.app
-APP_TEAM_ID =
-SPOTIFY_CLIENT_ID =
-
-#include? "Secrets.xcconfig"
