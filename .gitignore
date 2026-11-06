@@ -1,0 +1,13 @@
+# קבצים אישיים
+Config/Secrets.xcconfig
+
+# נוצרים אוטומטית ע"י xcodegen
+*.xcodeproj
+Songmilim/Info.plist
+Songmilim/Songmilim.entitlements
+
+# Xcode
+xcuserdata/
+DerivedData/
+build/
+.DS_Store
